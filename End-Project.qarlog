@@ -1,0 +1,49 @@
+Quartus II Archive log --	C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/End-Project.qarlog
+
+Archive:	C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/End-Project.qar
+Date:		Mon Oct 09 19:25:33 2023
+Quartus II		9.1 Build 350 03/24/2010 SP 2 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/Basic_clock.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/DivideHexss.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/End-Project.qpf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/End-Project.qsf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/HEXSS.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/Main.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/OneSecondGenerator.v
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/UART.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/UART_Complex.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/UART_Output.v
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/UART_Output_Switch.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/control_leds.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/control_leds_test.vwf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/count24H.tdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/counter60secs.tdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/db/End-Project.sim.cvwf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/dcount.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/de0_pins.tcl
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/dint.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/gozer.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/lpm_divide0.bsf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/lpm_divide0.inc
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/lpm_divide0.qip
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/lpm_divide0.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/mux_leds.bsf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/mux_leds.inc
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/mux_leds.qip
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/mux_leds.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/output_control.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/output_generator.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/outputff.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/real_time_clock.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/reciever.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/state_machine.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/test_MP3.bdf
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/timer.vhd
+C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/transmitter.vhd
+c:/altera/91sp2/quartus/bin/assignment_defaults.qdf
+	======= Total: 38 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,110 @@
+Archive Project report for End-Project
+Mon Oct 09 19:25:33 2023
+Quartus II Version 9.1 Build 350 03/24/2010 Service Pack 2 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2010 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Mon Oct 09 19:25:33 2023 ;
+; Revision Name          ; End-Project                           ;
+; Top-level Entity Name  ; Main                                  ;
+; Family                 ; Cyclone III                           ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/Matan/Desktop/VHDL/End-Project (3)/End-Project/End-Project.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'End-Project.archive.rpt'
+Info: Evaluation of Tcl script c:/altera/91sp2/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 160 megabytes
+    Info: Processing ended: Mon Oct 09 19:25:33 2023
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++-----------------------------------------------------+
+; Files Archived                                      ;
++-----------------------------------------------------+
+; File Name                                           ;
++-----------------------------------------------------+
+; Basic_clock.bdf                                     ;
+; c:/altera/91sp2/quartus/bin/assignment_defaults.qdf ;
+; control_leds.bdf                                    ;
+; control_leds_test.vwf                               ;
+; count24H.tdf                                        ;
+; counter60secs.tdf                                   ;
+; db/End-Project.sim.cvwf                             ;
+; dcount.vhd                                          ;
+; de0_pins.tcl                                        ;
+; dint.vhd                                            ;
+; DivideHexss.bdf                                     ;
+; End-Project.qpf                                     ;
+; End-Project.qsf                                     ;
+; gozer.vhd                                           ;
+; HEXSS.vhd                                           ;
+; lpm_divide0.bsf                                     ;
+; lpm_divide0.inc                                     ;
+; lpm_divide0.qip                                     ;
+; lpm_divide0.vhd                                     ;
+; Main.bdf                                            ;
+; mux_leds.bsf                                        ;
+; mux_leds.inc                                        ;
+; mux_leds.qip                                        ;
+; mux_leds.vhd                                        ;
+; OneSecondGenerator.v                                ;
+; output_control.vhd                                  ;
+; output_generator.vhd                                ;
+; outputff.vhd                                        ;
+; real_time_clock.bdf                                 ;
+; reciever.vhd                                        ;
+; state_machine.vhd                                   ;
+; test_MP3.bdf                                        ;
+; timer.vhd                                           ;
+; transmitter.vhd                                     ;
+; UART.bdf                                            ;
+; UART_Complex.bdf                                    ;
+; UART_Output.v                                       ;
+; UART_Output_Switch.vhd                              ;
++-----------------------------------------------------+
+
+
